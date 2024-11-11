@@ -153,7 +153,7 @@ main img {
 .scratch {
     background-color: #ffc15c;
     display: block;
-    margin: 0 auto;
+    margin: 0 20px;
     padding: 30px 20px;
     border-radius: 10px;
 }
