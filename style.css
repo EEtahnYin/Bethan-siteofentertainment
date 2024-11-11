@@ -151,9 +151,9 @@ main img {
     margin: 0px 30px;
 }
 .scratch {
-    background-color: #ffc15c;
+    background-color: #ffbe54;
     display: block;
-    margin: 0 20px;
+    margin: 0px 10px;
     padding: 30px 20px;
     border-radius: 10px;
 }
@@ -161,9 +161,9 @@ main img {
     display: block;
     margin: 0 auto;
     text-align: center;
-    font-size: 5cm;
+    font-size: 3cm;
     font-family:'Franklin Gothic Medium', 'lucida sans', Arial, sans-serif;
-    color: #ff8c00;
+    color: #dd6400;
     padding: 10px 0px 5px;
 }
 .footer {
