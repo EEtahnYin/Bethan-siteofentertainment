@@ -151,17 +151,17 @@ main img {
     margin: 0px 30px;
 }
 .scratch {
+    background-color: #ffc15c;
     display: block;
     margin: 0 auto;
     padding: 30px 20px;
     border-radius: 10px;
-    background-color: #ffba4a;
 }
 .scratchtext {
     display: block;
     margin: 0 auto;
     text-align: center;
-    font-size: 2cm;
+    font-size: 5cm;
     font-family:'Franklin Gothic Medium', 'lucida sans', Arial, sans-serif;
     color: #ff8c00;
     padding: 10px 0px 5px;
